@@ -202,5 +202,5 @@ function AddNewInterview() {
 
 export default AddNewInterview;
 
-git commit -m "Initial commit"
+
 
