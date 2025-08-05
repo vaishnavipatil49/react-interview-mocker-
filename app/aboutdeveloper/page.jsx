@@ -36,7 +36,7 @@ const AboutDeveloper = () => {
                 </h3>
 
                 <p className="text-sm text-gray-700 text-justify font-medium">
-                  I am <strong>Vaishnavi Patil</strong>, a passionate full-stack developer with a strong
+                  Hiii...I am <strong>Vaishnavi Patil</strong>, a passionate full-stack developer with a strong
                   interest in building modern, scalable web applications. My projects
                   often use technologies like <strong>React, Tailwind CSS, Node.js, MongoDB,</strong> and <strong>Drizzle ORM</strong>.
                   I enjoy solving DSA problems, learning systems design, and applying computer science in real-world apps.
